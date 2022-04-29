@@ -1,1 +1,3 @@
-# DM_VideoTheque
+# Devoir Maison : VideoTheque
+
+Léo THOMAS

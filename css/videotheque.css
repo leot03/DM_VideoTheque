@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    color: #fff !important;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(29, 34, 51) !important;
+  }
+
+.global {
+  padding: 10px;
+  margin: 10px;
+}
+
+.contenu {
+    display: block;
+    margin: 0 auto;
+    width: 552px;
+}
+
+.boutons {
+    margin-left: 20px;
+}
+
+td, th {
+    padding: 4px 7px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.duree {
+    text-align: center;
+    width: 150px;
+    color: #f8a537 !important;
+    font-weight: 600;
+}
+
+.tableau {
+    width: 450px;
+    margin: none !important;
+}
+
+.mySlides {
+    display: none
+}
+
+img {
+    vertical-align: middle;
+}
+
+.p-5 {
+    padding: 51px !important;
+}
+
+h2 {
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0 !important;
+}
+
+.bg-color {
+    background-color: rgb(42, 50, 75);
+}
+
+.btn-color {
+    background-color: rgb(49, 58, 87) !important;
+}
+
+.curseur-clic {
+  cursor: pointer;
+}
+
+.carousel-item img {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px !important;
+    object-position: center;
+    object-fit: contain;
+}
+
+.carousel-indicators {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 12% !important; 
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    background-color: rgba(255, 255, 255, 0) !important;
+    
+}
+
+.carousel-item img {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 3px #000;
+}
+
+.form-control {
+    color: #212529 !important;
+    font-weight: 600 !important;
+}
